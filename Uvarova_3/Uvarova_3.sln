@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uvarova_3", "Uvarova_3\Uvarova_3.csproj", "{258DCFD9-1E5F-483F-B738-57467A4B39DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University", "University\University.csproj", "{E763FDAA-B8C5-48CC-862D-81E5556F2619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258DCFD9-1E5F-483F-B738-57467A4B39DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258DCFD9-1E5F-483F-B738-57467A4B39DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258DCFD9-1E5F-483F-B738-57467A4B39DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258DCFD9-1E5F-483F-B738-57467A4B39DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E763FDAA-B8C5-48CC-862D-81E5556F2619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E763FDAA-B8C5-48CC-862D-81E5556F2619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E763FDAA-B8C5-48CC-862D-81E5556F2619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E763FDAA-B8C5-48CC-862D-81E5556F2619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BDE1F6-A26B-4D16-942C-B88389C68BBE}
+	EndGlobalSection
+EndGlobal
